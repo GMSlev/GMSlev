@@ -28,7 +28,7 @@
 
 <ul>
   <li><strong>Análise e Desenvolvimento de Sistemas</strong>, UNINOVE (cursando)</li>
-  <li><strong>CCNA</strong>, Cisco (2025)</li>
+  <li><strong>CCNA: Introdução à Redes</strong>, Cisco (2025)</li>
   <li><strong>Defesa de Rede</strong>, Cisco Networking Academy</li>
   <li><strong>Fundamentos de Rede</strong>, Cisco Networking Academy</li>
   <li><strong>Introdução à Cibersegurança</strong>, Cisco Networking Academy</li>
