@@ -18,7 +18,7 @@
 
 <p>
   Sou certificado <strong>CCNA</strong> e pratico em laboratórios no Cisco
-  Packet Tracer, com foco em análise e configuração de redes locais (LANs e
+  Packet Tracer e na plataforma TryHackMe, com foco em análise e configuração de redes locais (LANs e
   SOHO). Também tenho conhecimento em sistemas operacionais Linux e Windows.
 </p>
 
