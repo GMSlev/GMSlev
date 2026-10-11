@@ -36,7 +36,7 @@
 
 <hr>
 
-<h3>🛡️ Foco atual</h3>
+<h3>🛡️ Foco </h3>
 
 <ul>
   <li>Configuração e análise de redes LAN e SOHO no Cisco Packet Tracer</li>
