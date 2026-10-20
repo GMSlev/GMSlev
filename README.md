@@ -95,7 +95,7 @@
   <a href="https://www.linkedin.com/in/gabriel-martinez-silva">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="gabrielmartinezsilva545@gmail.com">
+  <a href="MartinezGMS8967@gmail.com">
     <img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
